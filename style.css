@@ -1,0 +1,78 @@
+/*table{
+
+  margin: auto;
+  border: 2px;
+  padding: 10px;
+  border-color: blue;
+  border-style:groove;
+  background-color: rgb(133, 243, 247);
+}*/
+
+
+div {
+  border-color: blue;
+  border-style: double;
+  font-family:cursive;
+  background-color: rgb(26, 213, 247);
+}
+
+h2{
+    text-align: center;
+    color: red;
+}
+
+h4{
+    text-align: center;
+    color: red;
+}
+
+table.table1, table.table1 tr, table.table1 td {
+  font-family:'Times New Roman', Times, serif;
+  margin: auto;
+  text-align: center;
+  border: 2px;
+  border-collapse: collapse;
+  padding: 10px;
+  border-color: blue;
+  border-style:groove;
+  background-color: rgb(133, 243, 247);
+}
+
+table{
+  margin: auto;
+}
+
+thead{
+  font-weight: bold;
+  color:red;
+}
+
+input{
+  width: 40px;
+  text-align: right;
+}
+
+button{
+  font-family:cursive;
+  background-color:blue;
+  border: none;
+  color: white;
+  padding: 15px 58px;
+  text-align: center;
+  text-decoration: none;
+ display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+table.table1 tr.destaque td {
+  background-color: yellow;
+}
+
+default{
+  background-color: rgb(133, 243, 247);
+}
+
+label2{
+  text-align: center;
+}
